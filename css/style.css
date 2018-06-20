@@ -1,0 +1,10 @@
+body, html {
+  widght: 100%;
+}
+
+.gameWindow {
+  margin: 0 auto;
+  height: 600px;
+  width: 600px;
+  border: 1px solid #614;
+}
